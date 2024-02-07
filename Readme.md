@@ -8,7 +8,7 @@ This anlaysis code has been developed as a solution for Job application assessme
 
  - [AIDETIC IN Website](https://aidetic.in)
  - [Download Dataset](https://drive.google.com/file/d/110xHAHsyaT4ui98zEL9WIwbcEg7CrUwO/view?usp=sharing)
- - [Video Walkthrough](https://drive.google.com/file/d/110xHAHsyaT4ui98zEL9WIwbcEg7CrUwO/view?usp=sharing)
+ - [Video Walkthrough](https://www.loom.com/share/cde8b458499b46f09a42c335afa78dbc?sid=817e60f8-b154-44dd-b8b0-c6ec206d6e11)
 
 
 ## Pre Requisite
